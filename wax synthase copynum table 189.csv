@@ -1,0 +1,190 @@
+Abbrev,corrected,Genus,Spec,Family,Order,Class,Phylum,Name,hymenia,Morphology,Lifestyle,originalTrait,Clade,dataset,X0,Number_of_copy
+Fishe1,ballistospory,Fistulina,hepatica,Fistulinaceae,Agaricales,Agaricomycetes,Basidiomycota,Fistulina hepatica v1.0,poroid,Cyphelloid,brown rot,ballistospory,0,PL109,126,8
+Agabi_varbisH97_2,ballistospory,Agaricus,bisporus,Agaricaceae,Agaricales,Agaricomycetes,Basidiomycota,Agaricus bisporus,lamellate,pileostipitate,litter decomposer,ballistospory,0,PL109,4,4
+Agrped1,ballistospory,Agrocybe,pediades,Strophariaceae,Agaricales,Agaricomycetes,Basidiomycota,Agrocybe pediades AH 40210 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,41,5
+Amath1,ballistospory,Amanita,thiersii,Amanitaceae,Agaricales,Agaricomycetes,Basidiomycota,Amanita thiersii Skay4041 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,PL109,7,6
+Copang1,ballistospory,Coprinellus,angulatus,Psathyrellaceae,Agaricales,Agaricomycetes,Basidiomycota,Coprinellus angulatus CBS 144469 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,35,8
+Copci_AmutBmut1,ballistospory,Coprinopsis,cinerea,Psathyrellaceae,Agaricales,Agaricomycetes,Basidiomycota,Coprinopsis cinerea AmutBmut pab1-1 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,37,8
+CopciAB,ballistospory,Coprinopsis,cinerea,Psathyrellaceae,Agaricales,Agaricomycetes,Basidiomycota,Coprinopsis cinerea AmutBmut pab1-1 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,new,38,8
+Copmar1,ballistospory,Coprinopsis,marcescibilis,Psathyrellaceae,Agaricales,Agaricomycetes,Basidiomycota,Coprinopsis marcescibilis CBS121175 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,39,4
+Copmic2,ballistospory,Coprinellus,micaceus,Psathyrellaceae,Agaricales,Agaricomycetes,Basidiomycota,Coprinellus micaceus FP101781 v2.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,36,7
+Copph3,ballistospory,Coprinopsis,sp.,Psathyrellaceae,Agaricales,Agaricomycetes,Basidiomycota,Coprinopsis sp. MPI-PUGE-AT-0042 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,40,5
+Crula1,sec-non-ball,Crucibulum,laeve,NA,Agaricales,Agaricomycetes,Basidiomycota,Crucibulum laeve CBS 166.37 v1.0,peridiolum,Gasteroid,litter decomposer,sec-non-ball,1,JGI202304,171,6
+Gyman1,ballistospory,Gymnopus,androsaceus,Omphalotaceae,Agaricales,Agaricomycetes,Basidiomycota,Gymnopus androsaceus JB14 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,20,8
+Hypma1,ballistospory,Hypsizygus,marmoreus,Lyophyllaceae,Agaricales,Agaricomycetes,Basidiomycota,Hypsizygus marmoreus 51987-8,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,12,5
+Lepnud1,ballistospory,Lepista,nuda,NA,Agaricales,Agaricomycetes,Basidiomycota,Lepista nuda CBS 247.69 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,19,12
+Leugo1_1,ballistospory,Leucoagaricus,gongylophorus,Agaricaceae,Agaricales,Agaricomycetes,Basidiomycota,Leucoagaricus gongylophorus Ac12,lamellate,pileostipitate,litter decomposer,sec-non-ball,3,JGI202304,3,0
+Lyoat1,ballistospory,Lyophyllum,atratum,Lyophyllaceae,Agaricales,Agaricomycetes,Basidiomycota,Lyophyllum atratum CBS 144462 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,13,6
+Macfu1,ballistospory,Macrolepiota,fuliginosa,Agaricaceae,Agaricales,Agaricomycetes,Basidiomycota,Macrolepiota fuliginosa MF-IS2 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,5,6
+Marfi1,ballistospory,Marasmius,fiardii,Marasmiaceae,Agaricales,Agaricomycetes,Basidiomycota,Marasmius fiardii PR-910 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,15,9
+Mk,ballistospory,Mycena,kentingensis,Mycenaceae,Agaricales,Agaricomycetes,Basidiomycota,Mycena kentingensis,lamellate,pileostipitate,litter decomposer,ballistospory,0,PL109,18,9
+Mycgal1,ballistospory,Mycena,galopus,Mycenaceae,Agaricales,Agaricomycetes,Basidiomycota,Mycena galopus ATCC-62051 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,17,12
+Phocon1,ballistospory,Pholiota,conissans,Strophariaceae,Agaricales,Agaricomycetes,Basidiomycota,Pholiota conissans CIRM-BRFM 674 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,44,6
+Pleery1,ballistospory,Pleurotus,eryngii,Pleurotaceae,Agaricales,Agaricomycetes,Basidiomycota,Pleurotus eryngii ATCC 90797 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,28,5
+Psicub1_1,ballistospory,Psilocybe,cubensis,Strophariaceae,Agaricales,Agaricomycetes,Basidiomycota,Psilocybe cubensis v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,45,7
+Psiser1,ballistospory,Psilocybe,serbica,Strophariaceae,Agaricales,Agaricomycetes,Basidiomycota,Psilocybe serbica v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,46,4
+Ptegra1,ballistospory,Pterula,gracilis,Pterulaceae,Agaricales,Agaricomycetes,Basidiomycota,Pterula gracilis CBS309.79 v1.0,smooth,Coralloid_Clavarioid,litter decomposer,ballistospory,0,JGI202304,159,6
+Rhobut1_1,ballistospory,Rhodocollybia,butyracea,Omphalotaceae,Agaricales,Agaricomycetes,Basidiomycota,Rhodocollybia butyracea AH 40177 v1.0,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,23,8
+TerJ132_1,ballistospory,Termitomyces,sp.,Lyophyllaceae,Agaricales,Agaricomycetes,Basidiomycota,Termitomyces sp. J132,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,14,3
+Volvo1,ballistospory,Volvariella,volvacea,Pluteaceae,Agaricales,Agaricomycetes,Basidiomycota,Volvariella volvacea V23,lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,34,5
+Amamu1,ballistospory,Amanita,muscaria,Amanitaceae,Agaricales,Agaricomycetes,Basidiomycota,Amanita muscaria Koide v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,PL109,6,8
+Corgl3,ballistospory,Phlegmacium,glaucopus,Cortinariaceae,Agaricales,Agaricomycetes,Basidiomycota,Phlegmacium glaucopus AT 2004 276 v2.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,8,6
+Hebcy2,ballistospory,Hebeloma,cylindrosporum,Hymenogastraceae,Agaricales,Agaricomycetes,Basidiomycota,Hebeloma cylindrosporum h7 v2.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,11,18
+Lacam2,ballistospory,Laccaria,amethystina,Tricholomataceae,Agaricales,Agaricomycetes,Basidiomycota,Laccaria amethystina LaAM-08-1 v2.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,47,21
+Lacbi2,ballistospory,Laccaria,bicolor,Tricholomataceae,Agaricales,Agaricomycetes,Basidiomycota,Laccaria bicolor v2.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,48,16
+Lycper1,sec-non-ball,Lycoperdon,perlatum,Lycoperdaceae,Agaricales,Agaricomycetes,Basidiomycota,Lycoperdon perlatum FP-102459-T v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,2,JGI202304,170,8
+MroMCA2997_1,ballistospory,Moniliophthora,roreri,Marasmiaceae,Agaricales,Agaricomycetes,Basidiomycota,Moniliophthora roreri MCA 2997,lamellate,woFrb,pathogen,ballistospory,0,JGI202304,16,5
+Crafun1,ballistospory,Crassisporium,funariophilum,Crassisporiaceae,Agaricales,Agaricomycetes,Basidiomycota,Crassisporium funariophilum CBS 144457 v1.0,lamellate,pileostipitate,pyrophilous,ballistospory,0,JGI202304,9,7
+Denbi1,ballistospory,Dendrothele,bispora,Lachnellaceae,Agaricales,Agaricomycetes,Basidiomycota,Dendrothele bispora CBS 962.96 v1.0,smooth,Resupinate,uncertain,ballistospory,0,PL109,77,4
+Schco3,ballistospory,Schizophyllum,commune,Schizophyllaceae,Agaricales,Agaricomycetes,Basidiomycota,Schizophyllum commune H4-8 v3.0,lamellate,Cyphelloid,uncertain,ballistospory,0,JGI202304,169,12
+Auramp1,ballistospory,Auriculariopsis,ampla,Schizophyllaceae,Agaricales,Agaricomycetes,Basidiomycota,Auriculariopsis ampla NL-1724 v1.0,smooth,Cyphelloid,white rot,ballistospory,0,JGI202304,168,8
+Crevar1,ballistospory,Crepidotus,variabilis,Crepidotaceae,Agaricales,Agaricomycetes,Basidiomycota,Crepidotus variabilis CBS 506.95 v1.0,lamellate,Cyphelloid,white rot,ballistospory,0,JGI202304,125,8
+Cyastr2,sec-non-ball,Cyathus,striatus,Nidulariaceae,Agaricales,Agaricomycetes,Basidiomycota,Cyathus striatus AH 40144 v1.0,peridiolum,Gasteroid,white rot,sec-non-ball,1,JGI202304,172,38
+Cylto1,ballistospory,Cylindrobasidium,torrendii,Physalacriaceae,Agaricales,Agaricomycetes,Basidiomycota,Cylindrobasidium torrendii FP15055 v1.0,smooth,Resupinate,white rot,ballistospory,0,JGI202304,78,19
+Galma1,ballistospory,Galerina,marginata,Strophariaceae,Agaricales,Agaricomycetes,Basidiomycota,Galerina marginata v1.0,lamellate,pileostipitate,white rot,ballistospory,0,JGI202304,42,6
+Guyne1,sec-non-ball,Guyanagaster,necrorhiza,Physalacriaceae,Agaricales,Agaricomycetes,Basidiomycota,Guyanagaster necrorhiza MCA 3950 v1.0,gleba,Gasteroid,white rot,sec-non-ball,4,JGI202304,186,7
+Gymjun1,ballistospory,Gymnopilus,junonius,Hymenogastraceae,Agaricales,Agaricomycetes,Basidiomycota,Gymnopilus junonius AH 44721 v1.0,lamellate,pileostipitate,white rot,ballistospory,0,JGI202304,10,5
+Hypsu1,ballistospory,Hypholoma,sublateritium,Strophariaceae,Agaricales,Agaricomycetes,Basidiomycota,Hypholoma sublateritium v1.0,lamellate,pileostipitate,white rot,ballistospory,0,JGI202304,43,4
+Lentinedodes1,ballistospory,Lentinula,edodes,Omphalotaceae,Agaricales,Agaricomycetes,Basidiomycota,Lentinula edodes W1-26 v1.0,lamellate,pileostipitate,white rot,ballistospory,0,JGI202304,21,6
+Ompol1,ballistospory,Omphalotus,olearius,Omphalotaceae,Agaricales,Agaricomycetes,Basidiomycota,Omphalotus olearius,lamellate,pileostipitate,white rot,ballistospory,0,JGI202304,22,4
+Oudmuc1,ballistospory,Oudemansiella,mucida,Physalacriaceae,Agaricales,Agaricomycetes,Basidiomycota,Oudemansiella mucida CBS 558.79 v1.0,lamellate,pileostipitate,white rot,ballistospory,0,JGI202304,27,21
+Plecor,ballistospory,Pleurotus,cornucopiae,Pleurotaceae,Agaricales,Agaricomycetes,Basidiomycota,Pleurotus cornucopiae,lamellate,pileostipitate,white rot,ballistospory,0,new,32,7
+PleosPC15_2,ballistospory,Pleurotus,ostreatus,Pleurotaceae,Agaricales,Agaricomycetes,Basidiomycota,Pleurotus ostreatus PC15 v2.0,lamellate,pileostipitate,white rot,ballistospory,0,PL109,30,8
+PleosPC920,ballistospory,Pleurotus,ostreatus,Pleurotaceae,Agaricales,Agaricomycetes,Basidiomycota,Pleurotus ostreatus PC9 v1.0,lamellate,pileostipitate,white rot,ballistospory,0,new,29,10
+Plepul,ballistospory,Pleurotus,pulmonarius,Pleurotaceae,Agaricales,Agaricomycetes,Basidiomycota,Pleurotus pulmonarius,lamellate,pileostipitate,white rot,ballistospory,0,new,31,8
+Plucer1,ballistospory,Pluteus,cervinus,Pluteaceae,Agaricales,Agaricomycetes,Basidiomycota,Pluteus cervinus NL-1719 v1.0,lamellate,pileostipitate,white rot,ballistospory,0,JGI202304,33,13
+Armcep1,ballistospory,Armillaria,cepistipes,Physalacriaceae,Agaricales,Agaricomycetes,Basidiomycota,Armillaria cepistipes B5,lamellate,pileostipitate,white rot  root pathogen,ballistospory,0,JGI202304,24,12
+Armfum1,ballistospory,Armillaria,fumosa,Physalacriaceae,Agaricales,Agaricomycetes,Basidiomycota,Armillaria fumosa CBS 122221 v1.0,lamellate,pileostipitate,white rot  root pathogen,ballistospory,0,JGI202304,25,12
+Armga1,ballistospory,Armillaria,gallica,Physalacriaceae,Agaricales,Agaricomycetes,Basidiomycota,Armillaria gallica 21-2 v1.0,lamellate,pileostipitate,white rot  root pathogen,ballistospory,0,JGI202304,26,13
+Plicr1,ballistospory,Plicaturopsis,crispa,Amylocorticiaceae,Amylocorticiales,Agaricomycetes,Basidiomycota,Plicaturopsis crispa v1.0,lamellate,bracket,white rot,ballistospory,0,JGI202304,127,5
+Pilcr1,ballistospory,Piloderma,croceum,Atheliaceae,Atheliales,Agaricomycetes,Basidiomycota,Piloderma croceum F 1598 v1.0,smooth,Resupinate,Mycorrhizal,ballistospory,0,PL109,79,5
+Fibsp1,ballistospory,Fibulorhizoctonia,psychrophila,Atheliaceae,Atheliales,Agaricomycetes,Basidiomycota,Fibulorhizoctonia psychrophila CBS 109695 v1.0,smooth,Resupinate,white rot,ballistospory,0,JGI202304,173,9
+Olipa1,ballistospory,Oliveonia,pauxilla,NA,Auriculariales,Agaricomycetes,Basidiomycota,Oliveonia pauxilla MPI-PUGE-AT-0066 v1.0,smooth,Resupinate,uncertain,ballistospory,0,JGI202304,80,5
+Aurde3_1,ballistospory,Auricularia,subglabra,Auriculariaceae,Auriculariales,Agaricomycetes,Basidiomycota,Auricularia subglabra v2.0,smooth,Tremella like,white rot,ballistospory,0,PL109,99,3
+Exigl1,ballistospory,Exidia,glandulosa,Exidiaceae,Auriculariales,Agaricomycetes,Basidiomycota,Exidia glandulosa v1.0,smooth,Tremella like,white rot,ballistospory,0,PL109,100,8
+Conol1,ballistospory,Coniophora,olivacea,Coniophoraceae,Boletales,Agaricomycetes,Basidiomycota,Coniophora olivacea MUCL 20566 v1.0,smooth,Resupinate,brown rot,ballistospory,0,JGI202304,81,6
+Conpu1,ballistospory,Coniophora,puteana,Coniophoraceae,Boletales,Agaricomycetes,Basidiomycota,Coniophora puteana v1.0,smooth,Resupinate,brown rot,ballistospory,0,PL109,82,5
+Bolret1,ballistospory,Boletus,reticuloceps,Boletaceae,Boletales,Agaricomycetes,Basidiomycota,Boletus reticuloceps BR01,poroid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,49,13
+Gyrli1,ballistospory,Gyrodon,lividus,Gyrodontaceae,Boletales,Agaricomycetes,Basidiomycota,Gyrodon lividus BX v1.0,poroid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,51,7
+Melbro1,sec-non-ball,Melanogaster,broomeianus,Melanogastraceae,Boletales,Agaricomycetes,Basidiomycota,Melanogaster broomeianus MBLB.BST v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,5,JGI202304,187,33
+Paxam1,ballistospory,Paxillus,ammoniavirescens,Paxillaceae,Boletales,Agaricomycetes,Basidiomycota,Paxillus ammoniavirescens Pou09.2 v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,53,14
+Paxin1,ballistospory,Paxillus,involutus,Paxillaceae,Boletales,Agaricomycetes,Basidiomycota,Paxillus involutus ATCC 200175 v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,54,21
+Paxru2,ballistospory,Paxillus,adelphus,Paxillaceae,Boletales,Agaricomycetes,Basidiomycota,Paxillus adelphus Ve08.2h10 v2.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,52,8
+Pismar1,sec-non-ball,Pisolithus,marmoratus,Pisolithaceae,Boletales,Agaricomycetes,Basidiomycota,Pisolithus marmoratus ssp. 2 16A v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,6,JGI202304,175,54
+Pismi1,sec-non-ball,Pisolithus,microcarpus,Pisolithaceae,Boletales,Agaricomycetes,Basidiomycota,Pisolithus microcarpus 441 v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,6,PL109,176,15
+Pisthe227_1,sec-non-ball,Pisolithus,croceorrhizus,Pisolithaceae,Boletales,Agaricomycetes,Basidiomycota,Pisolithus croceorrhizus ssp. 2 72 v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,6,JGI202304,174,26
+Pisti2,sec-non-ball,Pisolithus,tinctorius,Pisolithaceae,Boletales,Agaricomycetes,Basidiomycota,Pisolithus tinctorius Marx 270 v2.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,6,JGI202304,177,24
+Rhives1,sec-non-ball,Rhizopogon,vesiculosus,Rhizopogonaceae,Boletales,Agaricomycetes,Basidiomycota,Rhizopogon vesiculosus Smith,gleba,Gasteroid,Mycorrhizal,sec-non-ball,7,JGI202304,178,8
+Rhivi1,sec-non-ball,Rhizopogon,vinicolor,Rhizopogonaceae,Boletales,Agaricomycetes,Basidiomycota,Rhizopogon vinicolor AM-OR11-026 v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,7,JGI202304,179,14
+Sclci1,sec-non-ball,Scleroderma,citrinum,Sclerodermataceae,Boletales,Agaricomycetes,Basidiomycota,Scleroderma citrinum Foug A v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,6,JGI202304,180,19
+Suiame1,ballistospory,Suillus,americanus,Suillaceae,Boletales,Agaricomycetes,Basidiomycota,Suillus americanus EM31 v1.0,poroid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,55,6
+Suicot1,ballistospory,Suillus,cothurnatus,Suillaceae,Boletales,Agaricomycetes,Basidiomycota,Suillus cothurnatus VC 1858 v1.0,poroid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,56,4
+Suihi1,ballistospory,Suillus,hirtellus,Suillaceae,Boletales,Agaricomycetes,Basidiomycota,Suillus hirtellus EM16 v1.0,poroid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,57,11
+Suilu4,ballistospory,Suillus,luteus,Suillaceae,Boletales,Agaricomycetes,Basidiomycota,Suillus luteus UH-Slu-Lm8-n1 v3.0,poroid,pileostipitate,Mycorrhizal,ballistospory,0,PL109,58,5
+Suisu1,ballistospory,Suillus,subalutaceus,Suillaceae,Boletales,Agaricomycetes,Basidiomycota,Suillus subalutaceus FC151 v1.0,poroid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,59,6
+Xerba1,ballistospory,Xerocomus,badius,Boletaceae,Boletales,Agaricomycetes,Basidiomycota,Xerocomus badius 84.06 v1.0,poroid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,50,25
+Cananz1,ballistospory,Cantharellus,anzutake,Cantharellaceae,Cantharellales,Agaricomycetes,Basidiomycota,Cantharellus anzutake C23 v1.0,cantherelloid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,60,10
+CerAGI,ballistospory,Ceratobasidium,sp.,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Ceratobasidium sp. anastomosis group I; DN8442 v1.0,smooth,Resupinate,Mycorrhizal,ballistospory,0,JGI202304,84,5
+ClaPMI390,ballistospory,Sistotrema,sp.,Hydnaceae,Cantharellales,Agaricomycetes,Basidiomycota,Sistotrema sp. PMI_390 v1.0,poroid,bracket,Mycorrhizal,ballistospory,0,JGI202304,128,35
+Hydru2,ballistospory,Hydnum,rufescens,Hydnaceae,Cantharellales,Agaricomycetes,Basidiomycota,Hydnum rufescens UP504 v2.0,hydnoid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,61,9
+Tulca1,ballistospory,Tulasnella,calospora,Tulasnellaceae,Cantharellales,Agaricomycetes,Basidiomycota,Tulasnella calospora AL13/4D v1.0,smooth,Resupinate,Mycorrhizal,ballistospory,0,JGI202304,85,9
+Rhiso1,ballistospory,Rhizoctonia,solani,Ceratobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Rhizoctonia solani AG-1 IB,no,woFrb,pathogen,ballistospory,0,JGI202304,105,4
+Botbo1,ballistospory,Botryobasidium,botryosum,Botryobasidiaceae,Cantharellales,Agaricomycetes,Basidiomycota,Botryobasidium botryosum v1.0,smooth,Resupinate,uncertain,ballistospory,0,JGI202304,83,16
+Punst1,ballistospory,Punctularia,strigosozonata,Punctulariaceae,Corticiales,Agaricomycetes,Basidiomycota,Punctularia strigosozonata v1.0,smooth,Resupinate,white rot,ballistospory,0,JGI202304,86,1
+Rhomi1,ballistospory,Cystobasidium,minutum,Cystobasidiaceae,Cystobasidiales,Cystobasidiomycetes,Basidiomycota,Cystobasidium minutum MCA 4210 v1.0,no,Yeasts,Yeasts,prim-non-ball,0,JGI202304,116,4
+Calco1,ballistospory,Calocera,cornea,Dacrymycetaceae,Dacrymycetales,Dacrymycetes,Basidiomycota,Calocera cornea v1.0,smooth,Coralloid_Clavarioid,brown rot,prim-non-ball,0,PL109,165,9
+Calvi1,ballistospory,Calocera,viscosa,Dacrymycetaceae,Dacrymycetales,Dacrymycetes,Basidiomycota,Calocera viscosa v1.0,smooth,Coralloid_Clavarioid,brown rot,prim-non-ball,0,JGI202304,166,7
+Dacsp1,ballistospory,Dacryopinax,primogenitus,Dacrymycetaceae,Dacrymycetales,Dacrymycetes,Basidiomycota,Dacryopinax primogenitus DJM 731 SSP1 v1.0,smooth,Coralloid_Clavarioid,brown rot,prim-non-ball,0,JGI202304,167,4
+Aspfu1,prim-non-ball,Aspergillus,fumigatus,Aspergillaceae,Eurotiales,Eurotiomycetes,Ascomycota,Aspergillus fumigatus Af293 from AspGD,no,woFrb,pathogen,prim-non-ball,0,O443,102,5
+Nagvi1,ballistospory,Naganishia,vishniacii,Filobasidiaceae,Filobasidiales,Tremellomycetes,Basidiomycota,Naganishia vishniacii ANT03-052 v1.1,no,Yeasts,psychrophilic,prim-non-ball,0,JGI202304,122,1
+Filflo1,ballistospory,Filobasidium,floriforme,Filobasidiaceae,Filobasidiales,Tremellomycetes,Basidiomycota,Filobasidium floriforme CBS 6241 v1.0,no,Yeasts,Yeasts,prim-non-ball,0,JGI202304,121,1
+Geatri1,sec-non-ball,Geastrum,triplex,Geastraceae,Geastrales,Agaricomycetes,Basidiomycota,Geastrum triplex GST.BST v1.0,gleba,Gasteroid,litter decomposer,sec-non-ball,8,JGI202304,181,7
+Sphst1,sec-non-ball,Sphaerobolus,stellatus,Sphaerobolaceae,Geastrales,Agaricomycetes,Basidiomycota,Sphaerobolus stellatus v1.0,gleba,Gasteroid,litter decomposer,sec-non-ball,8,JGI202304,183,7
+Sclhys1_1,sec-non-ball,Sclerogaster,hysterangioides,Sclerogastraceae,Geastrales,Agaricomycetes,Basidiomycota,Sclerogaster hysterangioides SCL2.BST v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,8,JGI202304,182,6
+Tilan2,ballistospory,Tilletiaria,anomala,Tilletiariaceae,Georgefischeriales,Exobasidiomycetes,Basidiomycota,Tilletiaria anomala UBC 951 v1.0,no,woFrb,Endophytic,prim-non-ball,0,PL109,106,0
+Glotr1_1,ballistospory,Gloeophyllum,trabeum,Gloeophyllaceae,Gloeophyllales,Agaricomycetes,Basidiomycota,Gloeophyllum trabeum v1.0,lamellate,bracket,brown rot,ballistospory,0,JGI202304,129,4
+Helsul1,ballistospory,Heliocybe,sulcata,NA,Gloeophyllales,Agaricomycetes,Basidiomycota,Heliocybe sulcata OMC1185 v1.0,lamellate,pileostipitate,brown rot,ballistospory,0,JGI202304,63,4
+Neole1,ballistospory,Neolentinus,lepideus,Gloeophyllaceae,Gloeophyllales,Agaricomycetes,Basidiomycota,Neolentinus lepideus v1.0,lamellate,pileostipitate,brown rot,ballistospory,0,JGI202304,62,4
+Ramac1,ballistospory,Ramaria,rubella,Gomphaceae,Gomphales,Agaricomycetes,Basidiomycota,Ramaria rubella (R. acris) UT-36052-T v1.0,smooth,Coralloid_Clavarioid,litter decomposer,ballistospory,0,JGI202304,160,2
+Gaumor1_1,sec-non-ball,Gautieria,morchelliformis,Gautieriaceae,Gomphales,Agaricomycetes,Basidiomycota,Gautieria morchelliformis GMNE.BST v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,9,JGI202304,188,1
+Ricmel1,ballistospory,Rickenella,mellea,NA,Hymenochaetales,Agaricomycetes,Basidiomycota,Rickenella mellea v1.0 (SZMC22713),lamellate,pileostipitate,litter decomposer,ballistospory,0,JGI202304,64,6
+Pheno1,ballistospory,Phellinus,noxius,Hymenochaetaceae,Hymenochaetales,Agaricomycetes,Basidiomycota,Phellinus noxius FFPRI411160,poroid,bracket,pathogen,ballistospory,0,JGI202304,131,1
+Fomme1,ballistospory,Fomitiporia,mediterranea,Hymenochaetaceae,Hymenochaetales,Agaricomycetes,Basidiomycota,Fomitiporia mediterranea v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,130,2
+Schpa1,ballistospory,Schizopora,paradoxa,Schizoporaceae,Hymenochaetales,Agaricomycetes,Basidiomycota,Schizopora paradoxa KUC8140 v1.0,poroid,Resupinate,white rot,ballistospory,0,JGI202304,87,3
+Fusgr1,prim-non-ball,Fusarium,graminearum,Nectriaceae,Hypocreales,Sordariomycetes,Ascomycota,Fusarium graminearum v1.0,no,woFrb,pathogen,prim-non-ball,0,PL109,103,4
+Hyssto1,sec-non-ball,Hysterangium,stoloniferum,Hysterangiaceae,Hysterangiales,Agaricomycetes,Basidiomycota,Hysterangium stoloniferum HS.BST v1.0,gleba,Gasteroid,Mycorrhizal,sec-non-ball,8,JGI202304,189,13
+Jaaar1,ballistospory,Jaapia,argillacea,Jaapiaceae,Jaapiales,Agaricomycetes,Basidiomycota,Jaapia argillacea v1.0,poroid,Resupinate,uncertain,ballistospory,0,JGI202304,88,2
+Leucr1,ballistospory,Leucosporidiella,creatinivora,Leucosporidiaceae,Leucosporidiales,Microbotryomycetes,Basidiomycota,Leucosporidiella creatinivora 62-1032 v1.0,no,Yeasts,Yeasts,prim-non-ball,0,O443,118,3
+Malsy1_1,ballistospory,Malassezia,sympodialis,Malasseziaceae,Malasseziales,Malasseziomycetes,Basidiomycota,Malassezia sympodialis ATCC 42132,no,Yeasts,pathogen,prim-non-ball,0,JGI202304,117,1
+Mixos1,ballistospory,Mixia,osmundae,Mixiaceae,Mixiales,Mixiomycetes,Basidiomycota,Mixia osmundae IAM 14324 v1.0,no,Yeasts,pathogen,prim-non-ball,0,JGI202304,120,2
+Tubae1,prim-non-ball,Tuber,aestivum,Tuberaceae,Pezizales,Pezizomycetes,Ascomycota,Tuber aestivum var. urcinatum v1.0,gleba,Gasteroid,Mycorrhizal,prim-non-ball,0,O443,185,1
+Mutel1,sec-non-ball,Mutinus,elegans,Phallaceae,Phallales,Agaricomycetes,Basidiomycota,Mutinus elegans ME.BST v1.0,gleba,Gasteroid,litter decomposer,sec-non-ball,8,JGI202304,184,8
+Daequ1,ballistospory,Daedalea,quercina,Fomitopsidaceae,Polyporales,Agaricomycetes,Basidiomycota,Daedalea quercina v1.0,poroid,bracket,brown rot,ballistospory,0,JGI202304,133,8
+Fibra1,ballistospory,Fibroporia,radiculosa,Fomitopsidaceae,Polyporales,Agaricomycetes,Basidiomycota,Fibroporia radiculosa TFFH 294,poroid,Resupinate,brown rot,ballistospory,0,JGI202304,90,6
+Fompi3,ballistospory,Fomitopsis,schrenkii,Fomitopsidaceae,Polyporales,Agaricomycetes,Basidiomycota,Fomitopsis schrenkii FP-58527 SS1 v3.0,poroid,bracket,brown rot,ballistospory,0,JGI202304,135,7
+Laesu1,ballistospory,Laetiporus,sulphureus,Laetiporaceae,Polyporales,Agaricomycetes,Basidiomycota,Laetiporus sulphureus var. sulphureus v1.0,poroid,bracket,brown rot,ballistospory,0,JGI202304,138,5
+Pipbet1_1,ballistospory,Fomitopsis,betulina,Fomitopsidaceae,Polyporales,Agaricomycetes,Basidiomycota,Fomitopsis betulina CIRM-BRFM 1772 v1.1,poroid,bracket,brown rot,ballistospory,0,JGI202304,134,6
+PosplRSB12_1,ballistospory,Postia,placenta,Dacryobolaceae,Polyporales,Agaricomycetes,Basidiomycota,Postia placenta MAD-698-R-SB12 v1.0,poroid,bracket,brown rot,ballistospory,0,PL109,132,8
+Wolco1,ballistospory,Wolfiporia,cocos,Laetiporaceae,Polyporales,Agaricomycetes,Basidiomycota,Wolfiporia cocos MD-104 SS10 v1.0,smooth,bracket,brown rot,ballistospory,0,JGI202304,139,11
+Hydfim1,ballistospory,Hydnopolyporus,fimbriatus,Ipricaceae,Polyporales,Agaricomycetes,Basidiomycota,Hydnopolyporus fimbriatus CBS384.51 v1.0,smooth,Coralloid_Clavarioid,Mycorrhizal,ballistospory,0,JGI202304,161,3
+Panru1,ballistospory,Panus,rudis,Panaceae,Polyporales,Agaricomycetes,Basidiomycota,Panus rudis PR-1116 ss-1 v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,65,2
+Cytmel1,ballistospory,Cytidiella,melzeri,Irpicaceae,Polyporales,Agaricomycetes,Basidiomycota,Cytidiella melzeri FP 102339 v1.0,smooth,bracket,uncertain,ballistospory,0,JGI202304,136,2
+Ganbon1,ballistospory,Ganoderma,boninense,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Ganoderma boninense G3 v1.0,poroid,bracket,uncertain,ballistospory,0,JGI202304,145,6
+Gansi1,ballistospory,Ganoderma,sinense,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Ganoderma sinense ZZ0214-1,poroid,bracket,uncertain,ballistospory,0,JGI202304,147,3
+Abobie1,ballistospory,Abortiporus,biennis,Podoscyphaceae,Polyporales,Agaricomycetes,Basidiomycota,Abortiporus biennis ​CIRM-BRFM 1778 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,142,5
+Artele1122_1,ballistospory,Artolenzites,elegans,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Artolenzites elegans CIRM-BRFM 1122 v1.0,lamellate,bracket,white rot,ballistospory,0,JGI202304,143,16
+Bjead1_1,ballistospory,Bjerkandera,adusta,Phanerochaetaceae,Polyporales,Agaricomycetes,Basidiomycota,Bjerkandera adusta v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,141,3
+Dicsq1,ballistospory,Dichomitus,squalens,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Dichomitus squalens LYAD-421 SS1 v1.0,poroid,bracket,white rot,ballistospory,0,PL109,95,4
+Dicsqu18370_1,ballistospory,Dichomitus,squalens,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Dicsqu18370_1,poroid,bracket,white rot,ballistospory,0,JGI202304,144,4
+Epityp1,ballistospory,Epithele,typhae,Epitheliaceae,Polyporales,Agaricomycetes,Basidiomycota,Epithele typhae CBS 203.58 v1.0,hydnoid,Resupinate,white rot,ballistospory,0,JGI202304,89,4
+Ganluc1,ballistospory,Ganoderma,lucidum,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Ganoderma lucidum G.260125-1 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,146,2
+Gansp1,ballistospory,Ganoderma,sp.,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Ganoderma sp. 10597 SS1 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,148,4
+Leisp1,ballistospory,Leiotrametes,sp.,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Leiotrametes sp. CIRM-BRFM 1775 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,150,7
+Obbri1,ballistospory,Obba,rivulosa,Gelatoporiaceae,Polyporales,Agaricomycetes,Basidiomycota,Obba rivulosa 3A-2 v1.0,poroid,Resupinate,white rot,ballistospory,0,JGI202304,91,2
+Phchr2,ballistospory,Phanerochaete,chrysosporium,Phanerochaetaceae,Polyporales,Agaricomycetes,Basidiomycota,Phanerochaete chrysosporium RP-78 v2.2,smooth,Resupinate,white rot,ballistospory,0,JGI202304,94,7
+Phlbr1,ballistospory,Phlebia,brevispora,Meruliaceae,Polyporales,Agaricomycetes,Basidiomycota,Phlebia brevispora HHB-7030 SS6 v1.0,smooth,Resupinate,white rot,ballistospory,0,PL109,92,3
+Phlcen1,ballistospory,Phlebia,centrifuga,Meruliaceae,Polyporales,Agaricomycetes,Basidiomycota,Phlebia centrifuga FBCC195,smooth,Resupinate,white rot,ballistospory,0,JGI202304,93,3
+Polar1,ballistospory,Polyporus,arcularius,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Polyporus arcularius v1.0,poroid,pileostipitate,white rot,ballistospory,0,PL109,66,4
+Polsqu1,ballistospory,Polyporus,squamosus,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Polyporus squamosus CCBS 676 v1.0,poroid,pileostipitate,white rot,ballistospory,0,JGI202304,67,4
+Pycco1,ballistospory,Pycnoporus,coccineus,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Pycnoporus coccineus CIRM-BRFM 310 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,151,6
+Trabet1,ballistospory,Trametes,betulina,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Trametes betulina CIRM-BRFM 1801 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,152,5
+Trace1,ballistospory,Trametopsis,cervina,Irpicaceae,Polyporales,Agaricomycetes,Basidiomycota,Trametopsis cervina CIRM-BRFM 1824 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,137,3
+Tralj1,ballistospory,Trametes,ljubarskyi,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Trametes ljubarskyi CIRM-BRFM 1659 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,153,3
+Tramen1,ballistospory,Leiotrametes,menziesii,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Leiotrametes menziesii CIRM-BRFM 1781 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,149,7
+Tramey1,ballistospory,Trametes,meyenii,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Trametes meyenii CIRM-BRFM 1810 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,154,1
+Trapol1,ballistospory,Trametes,polyzona,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Trametes polyzona CIRM-BRFM 1798 v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,155,3
+Trapub1,ballistospory,Trametes,pubescens,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Trametes pubescens FBCC735,poroid,bracket,white rot,ballistospory,0,JGI202304,156,5
+Trave1,ballistospory,Trametes,versicolor,Polyporaceae,Polyporales,Agaricomycetes,Basidiomycota,Trametes versicolor v1.0,poroid,bracket,white rot,ballistospory,0,JGI202304,157,5
+Rigmic1,ballistospory,Rigidoporus,microporus,Meripilaceae,Polyporales,Agaricomycetes,Basidiomycota,Rigidoporus microporus ED310 v1.0,poroid,bracket,white rot  root pathogen,ballistospory,0,JGI202304,140,2
+Melli1,ballistospory,Melampsora,lini,Melampsoraceae,Pucciniales,Pucciniomycetes,Basidiomycota,Melampsora lini CH5,no,woFrb,pathogen,prim-non-ball,0,JGI202304,108,25
+Phapa1,ballistospory,Phakopsora,pachyrhizi,Phakopsoraceae,Pucciniales,Pucciniomycetes,Basidiomycota,Phakopsora pachyrhizi MT2006 v1.0,no,woFrb,pathogen,prim-non-ball,0,JGI202304,109,18
+Pucgr2,ballistospory,Puccinia,graminis,Pucciniaceae,Pucciniales,Pucciniomycetes,Basidiomycota,Puccinia graminis f. sp. tritici v2.0,no,woFrb,pathogen,prim-non-ball,0,JGI202304,110,22
+Aurvu1,ballistospory,Auriscalpium,vulgare,Auriscalpiaceae,Russulales,Agaricomycetes,Basidiomycota,Auriscalpium vulgare FP105234-Sp v1.0,hydnoid,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,68,3
+Clapy1,ballistospory,Artomyces,pyxidatus,Auriscalpiaceae,Russulales,Agaricomycetes,Basidiomycota,Artomyces pyxidatus HHB10654 v1.0,smooth,Coralloid_Clavarioid,Mycorrhizal,ballistospory,0,JGI202304,162,3
+Lacdel1,ballistospory,Lactarius,deliciosus,Russulaceae,Russulales,Agaricomycetes,Basidiomycota,Lactarius deliciosus 48 v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,69,13
+Lachat1,ballistospory,Lactarius,hatsudake,Russulaceae,Russulales,Agaricomycetes,Basidiomycota,Lactarius hatsudake 109 v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,70,13
+Lacqui1,ballistospory,Lactarius,quietus,Russulaceae,Russulales,Agaricomycetes,Basidiomycota,Lactarius quietus S23C v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,71,4
+Lacsub1,ballistospory,Lactifluus,cf.,Russulaceae,Russulales,Agaricomycetes,Basidiomycota,Lactifluus cf. subvellereus BPL653 v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,73,13
+Lacviv1,ballistospory,Lactarius,vividus,Russulaceae,Russulales,Agaricomycetes,Basidiomycota,Lactarius vividus 141 v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,72,7
+Rusdis1,ballistospory,Russula,dissimulans,Russulaceae,Russulales,Agaricomycetes,Basidiomycota,Russula dissimulans BPL704 v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,74,6
+Ruseme1,ballistospory,Russula,emetica,Russulaceae,Russulales,Agaricomycetes,Basidiomycota,Russula emetica Přilba v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,75,9
+Rusoch1,ballistospory,Russula,ochroleuca,Russulaceae,Russulales,Agaricomycetes,Basidiomycota,Russula ochroleuca Přilba v1.0,lamellate,pileostipitate,Mycorrhizal,ballistospory,0,JGI202304,76,5
+Densp1,ballistospory,Dentipellis,sp.,Hericiaceae,Russulales,Agaricomycetes,Basidiomycota,Dentipellis sp. KUC8613 v1.0,hydnoid,Resupinate,white rot,ballistospory,0,JGI202304,96,11
+Hetan2,ballistospory,Heterobasidion,annosum,Bondarzewiaceae,Russulales,Agaricomycetes,Basidiomycota,Heterobasidion annosum v2.0,poroid,bracket,white rot,ballistospory,0,PL109,158,4
+Stehi1,ballistospory,Stereum,hirsutum,Stereaceae,Russulales,Agaricomycetes,Basidiomycota,Stereum hirsutum FP-91666 SS1 v1.0,smooth,Resupinate,white rot,ballistospory,0,JGI202304,97,6
+Sacce1,prim-non-ball,Saccharomyces,cerevisiae,Saccharomycetaceae,Saccharomycetales,Saccharomycetes,Ascomycota,Saccharomyces cerevisiae S288C,no,Yeasts,Yeasts,prim-non-ball,0,PL109,114,0
+Schpo1,prim-non-ball,Schizosaccharomyces,pombe,Schizosaccharomycetaceae,Schizosaccharomycetales,Schizosaccharomycetes,Ascomycota,Schizosaccharomyces pombe,no,Yeasts,Yeasts,prim-non-ball,0,PL109,115,1
+Sebve1,ballistospory,Sebacina,vermifera,Sebacinaceae,Sebacinales,Agaricomycetes,Basidiomycota,Sebacina vermifera MAFF 305830 v1.0,smooth,Coralloid_Clavarioid,Mycorrhizal,ballistospory,0,JGI202304,163,4
+Neucr2,prim-non-ball,Neurospora,crassa,Sordariaceae,Sordariales,Sordariomycetes,Ascomycota,Neurospora crassa OR74A v2.0,no,woFrb,Yeasts,prim-non-ball,0,PL109,2,1
+Rhoba1_1,ballistospory,Rhodotorula,graminis,Sporidiobolaceae,Sporidiobolales,Microbotryomycetes,Basidiomycota,Rhodotorula graminis strain WP1 v1.1,no,Yeasts,Yeasts,prim-non-ball,0,JGI202304,119,2
+Thega1,ballistospory,Thelephora,ganbajun,Thelephoraceae,Thelephorales,Agaricomycetes,Basidiomycota,Thelephora ganbajun P2 v1.0,smooth,Coralloid_Clavarioid,Mycorrhizal,ballistospory,0,JGI202304,164,5
+Tilcar1,ballistospory,Tilletia,caries,Tilletiaceae,Tilletiales,Exobasidiomycetes,Basidiomycota,Tilletia caries DAOM 238032,no,woFrb,Endophytic,prim-non-ball,0,JGI202304,107,2
+Sisni1,ballistospory,Sistotremastrum,niveocremeum,Hydnodontaceae,Trechisporales,Agaricomycetes,Basidiomycota,Sistotremastrum niveocremeum HHB9708 ss-1 1.0,smooth,Resupinate,brown rot,ballistospory,0,JGI202304,98,3
+Treen1,ballistospory,Naematelia,encephela,Naemateliaceae,Tremellales,Tremellomycetes,Basidiomycota,Naematelia encephela UCDFST 68-887.2 v1.0,smooth,Tremella like,Mycoparasitic,prim-non-ball,0,JGI202304,101,3
+Cryne_JEC21_1,ballistospory,Cryptococcus,neoformans,Cryptococcaceae,Tremellales,Tremellomycetes,Basidiomycota,Cryptococcus neoformans var neoformans JEC21,no,woFrb,pathogen,prim-non-ball,0,JGI202304,111,1
+Trias8904,ballistospory,Trichosporon,asahii,Trichosporonaceae,Trichosporonales,Tremellomycetes,Basidiomycota,Trichosporon asahii var. asahii CBS 8904,no,Yeasts,Yeasts,prim-non-ball,0,JGI202304,123,3
+Psehu1,ballistospory,Pseudozyma,hubeiensis,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Pseudozyma hubeiensis SY62,no,Yeasts,pathogen,prim-non-ball,0,JGI202304,124,2
+Tescy1,ballistospory,Testicularia,cyperi,Anthracoideaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Testicularia cyperi MCA 3645 v1.0,no,woFrb,pathogen,prim-non-ball,0,JGI202304,1,2
+Ustma2_2,ballistospory,Ustilago,maydis,Ustilaginaceae,Ustilaginales,Ustilaginomycetes,Basidiomycota,Ustilago maydis 521 v2.0,no,woFrb,pathogen,prim-non-ball,0,JGI202304,112,1
+Walse1,ballistospory,Wallemia,mellicola,Wallemiaceae,Wallemiales,Wallemiomycetes,Basidiomycota,Wallemia mellicola v1.0,no,woFrb,uncertain,prim-non-ball,0,PL109,113,4
+Micbo1,prim-non-ball,Microdochium,bolleyi,Microdochiaceae,Xylariales,Sordariomycetes,Ascomycota,Microdochium bolleyi J235TASD1 v1.0,no,woFrb,Endophytic,prim-non-ball,0,O443,104,1
